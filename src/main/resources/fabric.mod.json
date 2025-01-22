@@ -1,0 +1,39 @@
+{
+	"schemaVersion": 1,
+	"id": "moreweapons",
+	"version": "${version}",
+	"name": "More Weapons",
+	"description": "Adds more weapons",
+	"authors": [
+		"Win10MC"
+	],
+	"contact": {
+
+	},
+	"license": "MIT",
+	"icon": "assets/moreweapons/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.win10mc.moreweapons.MoreWeapons"
+		],
+		"fabric-datagen": [
+			"com.win10mc.moreweapons.MoreWeaponsDataGenerator"
+		],
+		"client": [
+			"com.win10mc.moreweapons.MoreWeaponsClient"
+		]
+	},
+	"mixins": [
+		"moreweapons.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

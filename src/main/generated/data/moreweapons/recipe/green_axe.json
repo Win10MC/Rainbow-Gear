@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "M": {
+      "item": "moreweapons:green_gem"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "MM ",
+    "MS ",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "moreweapons:green_axe"
+  }
+}

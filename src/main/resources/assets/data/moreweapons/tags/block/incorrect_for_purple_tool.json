@@ -1,0 +1,11 @@
+{
+  "values": [],
+  "remove": [
+    "#moreweapons:needs_red_tool",
+    "#moreweapons:needs_orange_tool",
+    "#moreweapons:needs_yellow_tool",
+    "#moreweapons:needs_green_tool",
+    "#moreweapons:needs_blue_tool",
+    "#moreweapons:needs_purple_tool"
+  ]
+}

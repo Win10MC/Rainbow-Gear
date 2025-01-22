@@ -1,0 +1,102 @@
+{
+  "item.moreweapons.red_gem": "Red Gem",
+  "item.moreweapons.orange_gem": "Orange Gem",
+  "item.moreweapons.yellow_gem": "Yellow Gem",
+  "item.moreweapons.green_gem": "Green Gem",
+  "item.moreweapons.blue_gem": "Blue Gem",
+  "item.moreweapons.purple_gem": "Purple Gem",
+
+  "item.moreweapons.red_sword": "Red Sword",
+  "item.moreweapons.red_pickaxe": "Red Pickaxe",
+  "item.moreweapons.red_axe": "Red Axe",
+  "item.moreweapons.red_shovel": "Red Shovel",
+  "item.moreweapons.red_hoe": "Red Hoe",
+
+  "item.moreweapons.orange_sword": "Orange Sword",
+  "item.moreweapons.orange_pickaxe": "Orange Pickaxe",
+  "item.moreweapons.orange_axe": "Orange Axe",
+  "item.moreweapons.orange_shovel": "Orange Shovel",
+  "item.moreweapons.orange_hoe": "Orange Hoe",
+
+  "item.moreweapons.yellow_sword": "Yellow Sword",
+  "item.moreweapons.yellow_pickaxe": "Yellow Pickaxe",
+  "item.moreweapons.yellow_axe": "Yellow Axe",
+  "item.moreweapons.yellow_shovel": "Yellow Shovel",
+  "item.moreweapons.yellow_hoe": "Yellow Hoe",
+
+  "item.moreweapons.green_sword": "Green Sword",
+  "item.moreweapons.green_pickaxe": "Green Pickaxe",
+  "item.moreweapons.green_axe": "Green Axe",
+  "item.moreweapons.green_shovel": "Green Shovel",
+  "item.moreweapons.green_hoe": "Green Hoe",
+
+  "item.moreweapons.blue_sword": "Blue Sword",
+  "item.moreweapons.blue_pickaxe": "Blue Pickaxe",
+  "item.moreweapons.blue_axe": "Blue Axe",
+  "item.moreweapons.blue_shovel": "Blue Shovel",
+  "item.moreweapons.blue_hoe": "Blue Hoe",
+
+  "item.moreweapons.purple_sword": "Purple Sword",
+  "item.moreweapons.purple_pickaxe": "Purple Pickaxe",
+  "item.moreweapons.purple_axe": "Purple Axe",
+  "item.moreweapons.purple_shovel": "Purple Shovel",
+  "item.moreweapons.purple_hoe": "Purple Hoe",
+
+  "item.moreweapons.red_helmet": "Red Helmet",
+  "item.moreweapons.red_chestplate": "Red Chestplate",
+  "item.moreweapons.red_leggings": "Red Leggings",
+  "item.moreweapons.red_boots": "Red Boots",
+
+  "item.moreweapons.orange_helmet": "Orange Helmet",
+  "item.moreweapons.orange_chestplate": "Orange Chestplate",
+  "item.moreweapons.orange_leggings": "Orange Leggings",
+  "item.moreweapons.orange_boots": "Orange Boots",
+
+  "item.moreweapons.yellow_helmet": "Yellow Helmet",
+  "item.moreweapons.yellow_chestplate": "Yellow Chestplate",
+  "item.moreweapons.yellow_leggings": "Yellow Leggings",
+  "item.moreweapons.yellow_boots": "Yellow Boots",
+
+  "item.moreweapons.green_helmet": "Green Helmet",
+  "item.moreweapons.green_chestplate": "Green Chestplate",
+  "item.moreweapons.green_leggings": "Green Leggings",
+  "item.moreweapons.green_boots": "Green Boots",
+
+  "item.moreweapons.blue_helmet": "Blue Helmet",
+  "item.moreweapons.blue_chestplate": "Blue Chestplate",
+  "item.moreweapons.blue_leggings": "Blue Leggings",
+  "item.moreweapons.blue_boots": "Blue Boots",
+
+  "item.moreweapons.purple_helmet": "Purple Helmet",
+  "item.moreweapons.purple_chestplate": "Purple Chestplate",
+  "item.moreweapons.purple_leggings": "Purple Leggings",
+  "item.moreweapons.purple_boots": "Purple Boots",
+
+  "block.moreweapons.red_block": "Block of Red",
+    "block.moreweapons.orange_block": "Block of Orange",
+    "block.moreweapons.yellow_block": "Block of Yellow",
+    "block.moreweapons.green_block": "Block of Green",
+    "block.moreweapons.blue_block": "Block of Blue",
+    "block.moreweapons.purple_block": "Block of Purple",
+
+  "itemgroup.moreweapons.items": "Items",
+  "itemgroup.moreweapons.blocks": "Blocks",
+
+  "block.moreweapons.red_ore": "Red Ore",
+  "block.moreweapons.red_deepslate_ore": "Red Deepslate Ore",
+
+  "block.moreweapons.orange_ore": "Orange Ore",
+  "block.moreweapons.orange_deepslate_ore": "Orange Deepslate Ore",
+
+  "block.moreweapons.yellow_ore": "Yellow Ore",
+  "block.moreweapons.yellow_deepslate_ore": "Yellow Deepslate Ore",
+
+  "block.moreweapons.green_ore": "Green Ore",
+  "block.moreweapons.green_deepslate_ore": "Green Deepslate Ore",
+
+  "block.moreweapons.blue_ore": "Blue Ore",
+  "block.moreweapons.blue_deepslate_ore": "Blue Deepslate Ore",
+
+  "block.moreweapons.purple_ore": "Purple Ore",
+  "block.moreweapons.purple_deepslate_ore": "Purple Deepslate Ore"
+}
