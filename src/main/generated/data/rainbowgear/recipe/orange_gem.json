@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "rainbowgear:orange_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "rainbowgear:orange_gem"
+  }
+}

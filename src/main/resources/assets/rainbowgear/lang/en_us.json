@@ -1,0 +1,102 @@
+{
+  "item.rainbowgear.red_gem": "Red Gem",
+  "item.rainbowgear.orange_gem": "Orange Gem",
+  "item.rainbowgear.yellow_gem": "Yellow Gem",
+  "item.rainbowgear.green_gem": "Green Gem",
+  "item.rainbowgear.blue_gem": "Blue Gem",
+  "item.rainbowgear.purple_gem": "Purple Gem",
+
+  "item.rainbowgear.red_sword": "Red Sword",
+  "item.rainbowgear.red_pickaxe": "Red Pickaxe",
+  "item.rainbowgear.red_axe": "Red Axe",
+  "item.rainbowgear.red_shovel": "Red Shovel",
+  "item.rainbowgear.red_hoe": "Red Hoe",
+
+  "item.rainbowgear.orange_sword": "Orange Sword",
+  "item.rainbowgear.orange_pickaxe": "Orange Pickaxe",
+  "item.rainbowgear.orange_axe": "Orange Axe",
+  "item.rainbowgear.orange_shovel": "Orange Shovel",
+  "item.rainbowgear.orange_hoe": "Orange Hoe",
+
+  "item.rainbowgear.yellow_sword": "Yellow Sword",
+  "item.rainbowgear.yellow_pickaxe": "Yellow Pickaxe",
+  "item.rainbowgear.yellow_axe": "Yellow Axe",
+  "item.rainbowgear.yellow_shovel": "Yellow Shovel",
+  "item.rainbowgear.yellow_hoe": "Yellow Hoe",
+
+  "item.rainbowgear.green_sword": "Green Sword",
+  "item.rainbowgear.green_pickaxe": "Green Pickaxe",
+  "item.rainbowgear.green_axe": "Green Axe",
+  "item.rainbowgear.green_shovel": "Green Shovel",
+  "item.rainbowgear.green_hoe": "Green Hoe",
+
+  "item.rainbowgear.blue_sword": "Blue Sword",
+  "item.rainbowgear.blue_pickaxe": "Blue Pickaxe",
+  "item.rainbowgear.blue_axe": "Blue Axe",
+  "item.rainbowgear.blue_shovel": "Blue Shovel",
+  "item.rainbowgear.blue_hoe": "Blue Hoe",
+
+  "item.rainbowgear.purple_sword": "Purple Sword",
+  "item.rainbowgear.purple_pickaxe": "Purple Pickaxe",
+  "item.rainbowgear.purple_axe": "Purple Axe",
+  "item.rainbowgear.purple_shovel": "Purple Shovel",
+  "item.rainbowgear.purple_hoe": "Purple Hoe",
+
+  "item.rainbowgear.red_helmet": "Red Helmet",
+  "item.rainbowgear.red_chestplate": "Red Chestplate",
+  "item.rainbowgear.red_leggings": "Red Leggings",
+  "item.rainbowgear.red_boots": "Red Boots",
+
+  "item.rainbowgear.orange_helmet": "Orange Helmet",
+  "item.rainbowgear.orange_chestplate": "Orange Chestplate",
+  "item.rainbowgear.orange_leggings": "Orange Leggings",
+  "item.rainbowgear.orange_boots": "Orange Boots",
+
+  "item.rainbowgear.yellow_helmet": "Yellow Helmet",
+  "item.rainbowgear.yellow_chestplate": "Yellow Chestplate",
+  "item.rainbowgear.yellow_leggings": "Yellow Leggings",
+  "item.rainbowgear.yellow_boots": "Yellow Boots",
+
+  "item.rainbowgear.green_helmet": "Green Helmet",
+  "item.rainbowgear.green_chestplate": "Green Chestplate",
+  "item.rainbowgear.green_leggings": "Green Leggings",
+  "item.rainbowgear.green_boots": "Green Boots",
+
+  "item.rainbowgear.blue_helmet": "Blue Helmet",
+  "item.rainbowgear.blue_chestplate": "Blue Chestplate",
+  "item.rainbowgear.blue_leggings": "Blue Leggings",
+  "item.rainbowgear.blue_boots": "Blue Boots",
+
+  "item.rainbowgear.purple_helmet": "Purple Helmet",
+  "item.rainbowgear.purple_chestplate": "Purple Chestplate",
+  "item.rainbowgear.purple_leggings": "Purple Leggings",
+  "item.rainbowgear.purple_boots": "Purple Boots",
+
+  "block.rainbowgear.red_block": "Block of Red",
+    "block.rainbowgear.orange_block": "Block of Orange",
+    "block.rainbowgear.yellow_block": "Block of Yellow",
+    "block.rainbowgear.green_block": "Block of Green",
+    "block.rainbowgear.blue_block": "Block of Blue",
+    "block.rainbowgear.purple_block": "Block of Purple",
+
+  "itemgroup.rainbowgear.items": "Items",
+  "itemgroup.rainbowgear.blocks": "Blocks",
+
+  "block.rainbowgear.red_ore": "Red Ore",
+  "block.rainbowgear.red_deepslate_ore": "Red Deepslate Ore",
+
+  "block.rainbowgear.orange_ore": "Orange Ore",
+  "block.rainbowgear.orange_deepslate_ore": "Orange Deepslate Ore",
+
+  "block.rainbowgear.yellow_ore": "Yellow Ore",
+  "block.rainbowgear.yellow_deepslate_ore": "Yellow Deepslate Ore",
+
+  "block.rainbowgear.green_ore": "Green Ore",
+  "block.rainbowgear.green_deepslate_ore": "Green Deepslate Ore",
+
+  "block.rainbowgear.blue_ore": "Blue Ore",
+  "block.rainbowgear.blue_deepslate_ore": "Blue Deepslate Ore",
+
+  "block.rainbowgear.purple_ore": "Purple Ore",
+  "block.rainbowgear.purple_deepslate_ore": "Purple Deepslate Ore"
+}

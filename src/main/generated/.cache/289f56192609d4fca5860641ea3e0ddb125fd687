@@ -1,9 +1,0 @@
-// 1.21.1	2025-01-22T01:21:51.7530053	More Weapons/Tags for minecraft:block
-5ae21f8069f38a700064cfc026f07b2da23c6631 data\moreweapons\tags\block\needs_blue_tool.json
-2c60996b61953e26d7864a32387f6de374e04963 data\minecraft\tags\block\needs_iron_tool.json
-cd5ccf36b678b059bd1ae6b8f924b121045af288 data\moreweapons\tags\block\needs_green_tool.json
-25f153ba2d32655c8a60510671eab87d096f5a31 data\moreweapons\tags\block\needs_orange_tool.json
-83a3afe05f9d6eef5fbdbccff5e84a2f11873c7f data\moreweapons\tags\block\needs_yellow_tool.json
-2c60996b61953e26d7864a32387f6de374e04963 data\moreweapons\tags\block\needs_red_tool.json
-f201cde1650610e9f0e1920ac6624d3c071efeaa data\minecraft\tags\block\mineable\pickaxe.json
-901448c0bf45e4fd4e6d9fed080f561fa065b115 data\moreweapons\tags\block\needs_purple_tool.json

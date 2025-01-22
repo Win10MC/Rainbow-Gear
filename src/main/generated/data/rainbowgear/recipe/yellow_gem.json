@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "rainbowgear:yellow_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "rainbowgear:yellow_gem"
+  }
+}

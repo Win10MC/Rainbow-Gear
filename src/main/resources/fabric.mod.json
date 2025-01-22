@@ -1,9 +1,9 @@
 {
 	"schemaVersion": 1,
-	"id": "moreweapons",
+	"id": "rainbowgear",
 	"version": "${version}",
-	"name": "More Weapons",
-	"description": "Adds more weapons",
+	"name": "Rainbow Gear",
+	"description": "Adds rainbow gear to your game!",
 	"authors": [
 		"Win10MC"
 	],
@@ -11,21 +11,21 @@
 
 	},
 	"license": "MIT",
-	"icon": "assets/moreweapons/icon.png",
+	"icon": "assets/rainbowgear/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.win10mc.moreweapons.MoreWeapons"
+			"com.win10mc.rainbowgear.RainbowGear"
 		],
 		"fabric-datagen": [
-			"com.win10mc.moreweapons.MoreWeaponsDataGenerator"
+			"com.win10mc.rainbowgear.RainbowGearDataGenerator"
 		],
 		"client": [
-			"com.win10mc.moreweapons.MoreWeaponsClient"
+			"com.win10mc.rainbowgear.RainbowGearClient"
 		]
 	},
 	"mixins": [
-		"moreweapons.mixins.json"
+		"rainbowgear.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.15.11",

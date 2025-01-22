@@ -1,0 +1,9 @@
+// 1.21.1	2025-01-22T03:13:31.7707054	Rainbow Gear/Tags for minecraft:block
+b808667a218e95a77d5c671099ffd10106fbb3a2 data\rainbowgear\tags\block\needs_green_tool.json
+283f6bd22240e351a5bb27937409b408400b2f9a data\minecraft\tags\block\needs_iron_tool.json
+77ce79a15174579b611bdef51af397e55aab96cb data\rainbowgear\tags\block\needs_orange_tool.json
+919f94ec6475100685ec822576d60a371f806636 data\rainbowgear\tags\block\needs_purple_tool.json
+283f6bd22240e351a5bb27937409b408400b2f9a data\rainbowgear\tags\block\needs_red_tool.json
+1083b948c97e90322f79be44ee565721dcff47d4 data\rainbowgear\tags\block\needs_blue_tool.json
+c9186a01ebf3a3b708a68de9f0eec9b3e8e50a69 data\minecraft\tags\block\mineable\pickaxe.json
+b43ae1300a40cb3184e10be23c234a555f1327fb data\rainbowgear\tags\block\needs_yellow_tool.json

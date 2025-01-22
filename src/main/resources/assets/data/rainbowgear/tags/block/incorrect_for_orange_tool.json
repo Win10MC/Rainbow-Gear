@@ -1,0 +1,13 @@
+{
+  "values": [
+    "#minecraft:incorrect_for_iron_tool",
+    "#rainbowgear:needs_yellow_tool",
+    "#rainbowgear:needs_green_tool",
+    "#rainbowgear:needs_blue_tool",
+    "#rainbowgear:needs_purple_tool"
+  ],
+  "remove": [
+    "#rainbowgear:needs_red_tool",
+    "#rainbowgear:needs_orange_tool"
+  ]
+}
