@@ -27,7 +27,7 @@ Step 4: Open your game and enjoy!
 
 ## Demo
 
-![Demo](https://cloud-6nxm9kvec-hack-club-bot.vercel.app/0demov2.gif)
+![Demo](https://cloud-okusvwbbc-hack-club-bot.vercel.app/0demo3333-ezgif.com-optimize.gif)
 
 ## Acknowledgements
 
