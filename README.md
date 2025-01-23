@@ -14,7 +14,7 @@ A Minecraft Mod to add 6 new custom armor and tool sets, each one being a color 
 - Purple Armor, Purple Tools, Purple Ore, and Purple Blocks
 - Fully custom textures
 - Balanced ore generation to fit in seamlessly with the rest of the game
-- 
+
 ## Installation
 
 Step 1: [Download Minecraft Fabric 1.21.1](https://fabricmc.net/use/installer/) and [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/6110899)
