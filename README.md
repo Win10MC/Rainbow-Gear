@@ -27,7 +27,7 @@ Step 4: Open your game and enjoy!
 
 ## Demo
 
-![Demo](https://cloud-okusvwbbc-hack-club-bot.vercel.app/0demo3333-ezgif.com-optimize.gif)
+![Demo](https://github.com/Win10MC/Rainbow-Gear/blob/6b1c065153ed062a570c10d95b1d85e2e573df04/demo.gif)
 
 ## Acknowledgements
 
